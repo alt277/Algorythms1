@@ -1,9 +1,6 @@
 public class MainL1 {
     public static void main(String[] args) {
-//        int a = 1;
-//        testInt(a);
-//        System.out.println(a);
-//
+
         String str = "abc";
         testString(str);
         System.out.println("str="+str);
