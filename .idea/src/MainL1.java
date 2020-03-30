@@ -9,7 +9,7 @@ public class MainL1 {
 //        StringBuilder sb = new StringBuilder("abc");
 //        testSb(sb);
 //        System.out.println(sb);
-//        //////////
+
 //        int[] mass = {1,2,3};
 //        testArray(mass);
 //        System.out.println(Arrays.toString(mass));
