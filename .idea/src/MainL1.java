@@ -6,8 +6,6 @@ public class MainL1 {
         System.out.println("str="+str);
         str=testString(str);
         System.out.println("str="+str);
-
-
 //        StringBuilder sb = new StringBuilder("abc");
 //        testSb(sb);
 //        System.out.println(sb);
