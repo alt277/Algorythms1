@@ -1,20 +1,15 @@
 public class MainL1 {
     public static void main(String[] args) {
-//        int a = 1;
-//        testInt(a);
-//        System.out.println(a);
-//
+
         String str = "abc";
         testString(str);
         System.out.println("str="+str);
         str=testString(str);
         System.out.println("str="+str);
-
-
 //        StringBuilder sb = new StringBuilder("abc");
 //        testSb(sb);
 //        System.out.println(sb);
-//        //////////
+
 //        int[] mass = {1,2,3};
 //        testArray(mass);
 //        System.out.println(Arrays.toString(mass));
